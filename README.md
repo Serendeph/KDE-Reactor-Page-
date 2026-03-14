@@ -1,2 +1,2 @@
-# KDE-Reactor-Page-
+# KDE-Reactor-Page
 Preference for System Monitor  
